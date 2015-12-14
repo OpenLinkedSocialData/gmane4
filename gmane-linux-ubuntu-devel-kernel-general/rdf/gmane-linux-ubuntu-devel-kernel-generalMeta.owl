@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:gmane="http://purl.org/socialparticipation/gmane/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#gmane-linux-ubuntu-devel-kernel-general">
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/gmane2/tree/master/gmane-linux-ubuntu-devel-kernel-general</po:availableAt>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-linux-ubuntu-devel-kernel-generalMeta.owl</po:discorveryRDFFile>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-linux-ubuntu-devel-kernel-generalMeta.ttl</po:discoveryTTLFile>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T16:43:35.578806</po:createdAt>
+    <gmane:nMessages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57282</gmane:nMessages>
+    <gmane:nParticipants rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1505</gmane:nParticipants>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane database and public list participants</po:donatedBy>
+    <gmane:nCharacters rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51735304</gmane:nCharacters>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane public database of email lists</po:acquiredThrough>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T16:44:27.021211</po:triplifiedIn>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot gmane-linux-ubuntu-devel-kernel-general</rdfs:label>
+    <gmane:nResponses rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33013</gmane:nResponses>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linked data of the email list with Gmane id: gmane.linux.ubuntu.devel.kernel.general</rdfs:comment>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-linux-ubuntu-devel-kernel-generalTranslate.owl</po:rdfFile>
+    <gmane:gmaneID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gmane.linux.ubuntu.devel.kernel.general</gmane:gmaneID>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-linux-ubuntu-devel-kernel-generalTranslate.ttl</po:ttlFile>
+  </rdf:Description>
+</rdf:RDF>

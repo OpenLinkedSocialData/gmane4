@@ -1,0 +1,26 @@
+@prefix gmane: <http://purl.org/socialparticipation/gmane/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#gmane-comp-encryption-openssl-user> a po:Snapshot ;
+    rdfs:label "Snapshot gmane-comp-encryption-openssl-user"^^xsd:string ;
+    gmane:gmaneID "gmane.comp.encryption.openssl.user"^^xsd:string ;
+    gmane:nCharacters 51610460 ;
+    gmane:nMessages 54754 ;
+    gmane:nParticipants 9952 ;
+    gmane:nResponses 35271 ;
+    po:acquiredThrough "Gmane public database of email lists"^^xsd:string ;
+    po:availableAt "https://github.com/OpenLinkedSocialData/gmane2/tree/master/gmane-comp-encryption-openssl-user"^^xsd:string ;
+    po:createdAt "2015-12-14T16:56:57.047279"^^xsd:datetime ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-comp-encryption-openssl-userMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-comp-encryption-openssl-userMeta.ttl"^^xsd:string ;
+    po:donatedBy "Gmane database and public list participants"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-comp-encryption-openssl-userTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-14T16:57:47.200079"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-comp-encryption-openssl-userTranslate.ttl"^^xsd:string ;
+    rdfs:comment "Linked data of the email list with Gmane id: gmane.comp.encryption.openssl.user"^^xsd:string .
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:gmane="http://purl.org/socialparticipation/gmane/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#gmane-comp-encryption-openssl-user">
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/gmane2/tree/master/gmane-comp-encryption-openssl-user</po:availableAt>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-comp-encryption-openssl-userTranslate.ttl</po:ttlFile>
+    <gmane:nMessages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54754</gmane:nMessages>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linked data of the email list with Gmane id: gmane.comp.encryption.openssl.user</rdfs:comment>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <gmane:nResponses rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35271</gmane:nResponses>
+    <gmane:nParticipants rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9952</gmane:nParticipants>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-comp-encryption-openssl-userMeta.owl</po:discorveryRDFFile>
+    <gmane:gmaneID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gmane.comp.encryption.openssl.user</gmane:gmaneID>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane database and public list participants</po:donatedBy>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane public database of email lists</po:acquiredThrough>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-comp-encryption-openssl-userTranslate.owl</po:rdfFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T16:57:47.200079</po:triplifiedIn>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T16:56:57.047279</po:createdAt>
+    <gmane:nCharacters rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51610460</gmane:nCharacters>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot gmane-comp-encryption-openssl-user</rdfs:label>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-comp-encryption-openssl-userMeta.ttl</po:discoveryTTLFile>
+  </rdf:Description>
+</rdf:RDF>

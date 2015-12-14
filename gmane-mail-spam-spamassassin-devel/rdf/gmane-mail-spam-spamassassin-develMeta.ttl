@@ -1,0 +1,26 @@
+@prefix gmane: <http://purl.org/socialparticipation/gmane/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#gmane-mail-spam-spamassassin-devel> a po:Snapshot ;
+    rdfs:label "Snapshot gmane-mail-spam-spamassassin-devel"^^xsd:string ;
+    gmane:gmaneID "gmane.mail.spam.spamassassin.devel"^^xsd:string ;
+    gmane:nCharacters 44564237 ;
+    gmane:nMessages 71826 ;
+    gmane:nParticipants 1052 ;
+    gmane:nResponses 38675 ;
+    po:acquiredThrough "Gmane public database of email lists"^^xsd:string ;
+    po:availableAt "https://github.com/OpenLinkedSocialData/gmane2/tree/master/gmane-mail-spam-spamassassin-devel"^^xsd:string ;
+    po:createdAt "2015-12-14T16:27:25.091188"^^xsd:datetime ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-mail-spam-spamassassin-develMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-mail-spam-spamassassin-develMeta.ttl"^^xsd:string ;
+    po:donatedBy "Gmane database and public list participants"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-mail-spam-spamassassin-develTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-14T16:28:23.757214"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-mail-spam-spamassassin-develTranslate.ttl"^^xsd:string ;
+    rdfs:comment "Linked data of the email list with Gmane id: gmane.mail.spam.spamassassin.devel"^^xsd:string .
+
